@@ -25,7 +25,7 @@ As a summary, these are some statistics obtained:
 >_**Disclaimer**: We are not responsible for the bad use of the Hidden Services information discovered or the information contained in them.  
 Some of the following addresses may contain questionable images, explicit or offensive content, not recommended for everyone._
 
->_**Note**: All Hidden Services detected with pedophilia content have been deleted and notified to the authorities to the Department for Child Protection. ( > 60 addresses)_
+>_**Note**: All Hidden Services detected with pedophilia content have been deleted and notified to the authorities to the **Department for Child Protection**. ( > 60 addresses)_
 
 ## Dashboard  
 
@@ -34,7 +34,7 @@ Click on the images for the details of each Hidden Services.
 
 [![Dashboard](dashboard_panel.png)](https://guest:guest@tordiscoverer.red4sec.com/?path=2017%2f05)
 
->_Wait until page loads completely, especially in months with a lot of content like August or December._
+>_**Wait until page loads completely**, especially in months with a lot of content like August or December._
 
 ### [Dashboard - Access to the capture panel](https://guest:guest@tordiscoverer.red4sec.com/?path=2017%2f05) (guest:guest)
 
