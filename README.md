@@ -65,12 +65,12 @@ As a summary, the investigation found:
 
 ## Links
 
-1. [Dashboard](https://guest:guest@tordiscoverer.red4sec.com/?path=2017%2f05) - all hidden services that were captured during the investigation.
+1. ~~Dashboard~~ - all hidden services that were captured during the investigation.
 1. ~~Search Engine~~ (beta) - search for content found within the investigation.
 
-[![Dashboard](dashboard_panel.png)](https://guest:guest@tordiscoverer.red4sec.com/?path=2017%2f05)
-[![Dashboard Menu](dashboard_menu.png)](https://guest:guest@tordiscoverer.red4sec.com/?path=2017%2f05)
->_wait until page is fully loaded_
+![Dashboard](dashboard_panel.png "Dashboard")
+![Dashboard Menu](dashboard_menu.png "Dashboard Menu")
+
 
 ## Downloads
 
